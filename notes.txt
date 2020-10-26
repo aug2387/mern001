@@ -1,0 +1,15 @@
+package.json
+server.js
+default.json
+db.js
+routes/api/
+
+===============================================================
+
+
+
+npm init
+npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
+npm i -D nodemon concurrently
+
+now mannually create server.js and code inside
