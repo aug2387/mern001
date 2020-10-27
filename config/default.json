@@ -1,3 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://admin:admin123@mernredux.q7wea.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://admin:admin123@mernredux.q7wea.mongodb.net/<dbname>?retryWrites=true&w=majority",
+
+    "jwtSecret": "mysecrettoken"
 }

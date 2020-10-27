@@ -2,7 +2,9 @@ package.json
 server.js
 default.json
 db.js
-routes/api/
+routes/ and all file
+models /
+middleware /
 
 ===============================================================
 
