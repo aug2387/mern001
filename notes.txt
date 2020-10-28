@@ -3,7 +3,7 @@ server.js
 default.json
 db.js
 routes/ and all file
-models /
+models / User, Profile
 middleware /
 
 ===============================================================
